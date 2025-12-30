@@ -5,6 +5,14 @@ It allows users to add, delete, and manage their daily tasks in a clean interfac
 
 ---
 
+## Live Demo
+
+Check out the live version of the project:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Here-blue)](https://vaibhavpal7549.github.io/Todo-App/)
+
+---
+
 ## ✨ Features
 - ➕ Add new tasks
 - ❌ Delete tasks with a single click
@@ -22,7 +30,12 @@ It allows users to add, delete, and manage their daily tasks in a clean interfac
 ---
 
 ## 📷 Screenshot
-(Add a screenshot of your app UI here after running it)
+![Web Dev Quiz Screenshot](./assets/todo.png)
+
+---
+
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
